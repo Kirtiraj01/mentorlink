@@ -232,8 +232,7 @@ Open your browser and navigate to: **http://localhost:5173**
 
 ## 👨‍💻 Team Members
 
-- Member 1
-- Member 2
+- Kirtiraj Singh Chouhan
 
 ---
 
