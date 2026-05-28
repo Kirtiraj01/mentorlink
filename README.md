@@ -238,16 +238,20 @@ Open your browser and navigate to: **http://localhost:5173**
 
 ## 📸 Screenshots
 
-> _Screenshots will be added here after deployment._
+### 🛡️ Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
-| Page | Preview |
-|---|---|
-| Login | _Coming Soon_ |
-| Admin Dashboard | _Coming Soon_ |
-| Mentor Dashboard | _Coming Soon_ |
-| Mentee Dashboard | _Coming Soon_ |
-| Sessions | _Coming Soon_ |
-| Issues | _Coming Soon_ |
+### 👨‍🏫 Mentor Dashboard
+![Mentor Dashboard](screenshots/mentor-dashboard.png)
+
+### 🎓 Mentee Dashboard
+![Mentee Dashboard](screenshots/mentee-dashboard.png)
+
+### 📅 Sessions / Scheduling
+![Sessions](screenshots/sessions.png)
+
+### 🚨 Student Issues
+![Issues](screenshots/issues.png)
 
 ---
 
