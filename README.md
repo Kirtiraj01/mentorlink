@@ -1,4 +1,4 @@
-# 🎓 Mentor Mentee Management System
+# 🎓 MentorLink
 
 **MentorLink** is a premium, full-stack AI-powered mentor-mentee intelligence platform designed for organizations and individuals to streamline mentorship management, track progress, and foster meaningful mentor-mentee relationships through data-driven insights.
 
